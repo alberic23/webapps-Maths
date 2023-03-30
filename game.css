@@ -44,7 +44,7 @@ img{
     position: relative;
 }
 
-.Game1 {
+.jeu1 {
     position: absolute;
     width: 200px;
     height: 150px;
@@ -55,7 +55,7 @@ img:hover{
     box-shadow: 10px orange;
 }
 
-.Game2 {
+.jeu2 {
     position: absolute;
     width: 200px;
     height: 150px;
